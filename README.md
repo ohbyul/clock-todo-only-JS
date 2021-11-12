@@ -3,6 +3,7 @@
 ![다운로드](https://user-images.githubusercontent.com/79763173/114510086-3509bc00-9c71-11eb-85a7-499fdf27b1ee.jpg)
 
 only JavaScript만으로 만든 크롬앱의 기능은
+```
 
 1. 시계 기능
 
@@ -14,3 +15,4 @@ only JavaScript만으로 만든 크롬앱의 기능은
 
 5. 랜덤 배경화면 출력
 
+```
